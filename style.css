@@ -1,0 +1,31 @@
+#nav-text{
+    display: flex;
+    gap: 3px;
+}
+#nav-text h3{
+    font-size: 26px;
+    background-color: #458FF6;
+    padding: 4px 10px;
+    border-radius: 50%;
+    color: white;
+}
+#nav-text h4{
+    font-size: 24px;
+    color: #233348;
+}
+
+#nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   margin-left: 35px;
+    margin-right: 35px;
+
+}
+#nav-content{
+    display: flex;
+    gap: 25px;
+}
+#nav-content p{
+    color: #7D7987;
+}
